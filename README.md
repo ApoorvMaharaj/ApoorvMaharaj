@@ -42,46 +42,46 @@ Interests:      Watching anime, teaching, etc.
 <h3 align="center">Languages and Tools:</h3> 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/html-5.png" alt="html5" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/html-5.png" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/css3.png" alt="css3" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/css3.png" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/js.png" alt="javascript" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/js.png" alt="javascript" width="40" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/git.png" alt="git" width="45" height="45"/> 
+<img src="https://img.icons8.com/material/96/4169e1/git.png" alt="git" width="45" height="45"/> 
 </a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="photoshop" width="35" height="35"/> 
 </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> 
 </a>  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/adobe-photoshop--v1.png" alt="photoshop" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/adobe-photoshop--v1.png" alt="photoshop" width="40" height="40"/> 
 </a> 
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/ms-word--v2.png" alt="photoshop" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/ms-word--v2.png" alt="photoshop" width="40" height="40"/> 
 </a> 
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/material/96/FFFFFF/ms-publisher.png" alt="photoshop" width="40" height="40"/> 
+<img src="https://img.icons8.com/material/96/4169e1/ms-publisher.png" alt="photoshop" width="40" height="40"/> 
 </a>
 </p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/apoorv.maharaj" target="blank">
-<img align="center" src="https://img.icons8.com/material/96/FFFFFF/facebook--v1.png" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/material/96/4169e1/facebook--v1.png" height="40" width="40" />
 </a>
 <a href="https://instagram.com/as_apoorv" target="blank">
-<img align="center" src="https://img.icons8.com/material/96/FFFFFF/instagram-new--v1.png" alt="as_apoorv" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/material/96/4169e1/instagram-new--v1.png" alt="as_apoorv" height="40" width="40" />
 </a>
 <a href="https://www.behance.net/MaharajApoorv" target="blank">
-<img align="center" src="https://img.icons8.com/material/96/FFFFFF/behance.png" alt="apoorvmaharaj" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/material/96/4169e1/behance.png" alt="apoorvmaharaj" height="40" width="40" />
 </a>
 <a href="https://www.github/apoorvmaharaj" target="blank">
-<img align="center" src="https://img.icons8.com/material/96/FFFFFF/github.png" alt="apoorvmaharaj" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/material/96/4169e1/github.png" alt="apoorvmaharaj" height="40" width="40" />
 </a>
 </p>
