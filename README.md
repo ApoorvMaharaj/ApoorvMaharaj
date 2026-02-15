@@ -1,4 +1,4 @@
-# Apoorv A. Kumar
+# Apoorv Maharaj
 
 Design-first engineer building modern digital systems.
 
