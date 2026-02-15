@@ -32,4 +32,4 @@ System Design • UI Architecture • Automation Workflows
 
 ## Contact
 
-Business inquiries: contact@apoorvmaharaj.com
+Business inquiries: hello@apoorvmaharaj.com
